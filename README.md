@@ -15,3 +15,7 @@ Add your own Google Maps API key in `public/index.js`.
 ```zsh
 lamdera live
 ```
+
+## Demo
+
+Live demo [here](https://lamdera-google-maps.lamdera.app/).
